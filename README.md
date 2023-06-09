@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MeThePlanet
+- 👋 Hi, I’m MeThePlanet
 - 👀 I’m interested in Web Development and Game Development using VS Code and UE5
 - 🌱 I’m currently learning Bootstrap 5
 <!---
